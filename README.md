@@ -80,6 +80,8 @@ Make an innovative solution for drivers and passengers safety, control bus manag
 - ### Machine Learning Frameworks
 
 - Yolov8
+- Numpy
+- Pandas
  
 
 -  ### Tools
